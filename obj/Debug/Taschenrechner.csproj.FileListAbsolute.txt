@@ -1,0 +1,9 @@
+c:\users\dmz\documents\visual studio 2013\Projects\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+c:\users\dmz\documents\visual studio 2013\Projects\Taschenrechner\obj\Debug\Taschenrechner.csprojResolveAssemblyReference.cache
+c:\users\dmz\documents\visual studio 2013\Projects\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+c:\users\dmz\documents\visual studio 2013\Projects\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+c:\users\dmz\documents\visual studio 2013\Projects\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.Cache
+c:\users\dmz\documents\visual studio 2013\Projects\Taschenrechner\bin\Debug\Taschenrechner.exe
+c:\users\dmz\documents\visual studio 2013\Projects\Taschenrechner\bin\Debug\Taschenrechner.pdb
+c:\users\dmz\documents\visual studio 2013\Projects\Taschenrechner\obj\Debug\Taschenrechner.exe
+c:\users\dmz\documents\visual studio 2013\Projects\Taschenrechner\obj\Debug\Taschenrechner.pdb
