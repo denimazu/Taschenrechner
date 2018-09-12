@@ -149,7 +149,7 @@ namespace Taschenrechner
             }
             else
             {
-                MessageBox.Show("Bitte wählen Sie erst eine Rechenoperation! So");
+                MessageBox.Show("Bitte wählen Sie erst eine Rechenoperation!");
                 return;
             }
             
