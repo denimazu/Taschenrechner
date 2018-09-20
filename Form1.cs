@@ -427,7 +427,7 @@ namespace Taschenrechner
                     break;
                 //Zahl2
                 case Keys.NumPad2:
-                case Keys.D2:
+                case Keys.D1:
                     e.Handled = true;
                     button2.BackColor = System.Drawing.SystemColors.ActiveCaption;
                     break;
