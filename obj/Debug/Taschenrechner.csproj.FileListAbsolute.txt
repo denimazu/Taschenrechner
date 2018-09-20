@@ -7,3 +7,4 @@ c:\users\dmz\documents\visual studio 2013\Projects\Taschenrechner\bin\Debug\Tasc
 c:\users\dmz\documents\visual studio 2013\Projects\Taschenrechner\bin\Debug\Taschenrechner.pdb
 c:\users\dmz\documents\visual studio 2013\Projects\Taschenrechner\obj\Debug\Taschenrechner.exe
 c:\users\dmz\documents\visual studio 2013\Projects\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\DMZ\documents\visual studio 2013\Projects\Taschenrechner\obj\Debug\Taschenrechner.exe.licenses

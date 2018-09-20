@@ -47,6 +47,7 @@
             this.buttonTeilen = new System.Windows.Forms.Button();
             this.buttonSumme = new System.Windows.Forms.Button();
             this.buttonClear = new System.Windows.Forms.Button();
+            this.buttonDelete = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -59,6 +60,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 37);
             this.button1.TabIndex = 0;
+            this.button1.TabStop = false;
             this.button1.Text = "1";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -73,6 +75,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 37);
             this.button2.TabIndex = 1;
+            this.button2.TabStop = false;
             this.button2.Text = "2";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
@@ -87,6 +90,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 37);
             this.button3.TabIndex = 2;
+            this.button3.TabStop = false;
             this.button3.Text = "3";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
@@ -101,6 +105,7 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 37);
             this.button4.TabIndex = 3;
+            this.button4.TabStop = false;
             this.button4.Text = "4";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
@@ -115,6 +120,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 37);
             this.button5.TabIndex = 4;
+            this.button5.TabStop = false;
             this.button5.Text = "5";
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button5_Click);
@@ -129,6 +135,7 @@
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(75, 37);
             this.button6.TabIndex = 5;
+            this.button6.TabStop = false;
             this.button6.Text = "6";
             this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.button6_Click);
@@ -143,6 +150,7 @@
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(75, 37);
             this.button7.TabIndex = 6;
+            this.button7.TabStop = false;
             this.button7.Text = "7";
             this.button7.UseVisualStyleBackColor = false;
             this.button7.Click += new System.EventHandler(this.button7_Click);
@@ -157,6 +165,7 @@
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(75, 37);
             this.button8.TabIndex = 7;
+            this.button8.TabStop = false;
             this.button8.Text = "8";
             this.button8.UseVisualStyleBackColor = false;
             this.button8.Click += new System.EventHandler(this.button8_Click);
@@ -171,6 +180,7 @@
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(75, 37);
             this.button9.TabIndex = 8;
+            this.button9.TabStop = false;
             this.button9.Text = "9";
             this.button9.UseVisualStyleBackColor = false;
             this.button9.Click += new System.EventHandler(this.button9_Click);
@@ -185,6 +195,7 @@
             this.button0.Name = "button0";
             this.button0.Size = new System.Drawing.Size(75, 37);
             this.button0.TabIndex = 9;
+            this.button0.TabStop = false;
             this.button0.Text = "0";
             this.button0.UseVisualStyleBackColor = false;
             this.button0.Click += new System.EventHandler(this.button0_Click);
@@ -207,6 +218,7 @@
             this.textBoxAusgabe.Name = "textBoxAusgabe";
             this.textBoxAusgabe.Size = new System.Drawing.Size(422, 44);
             this.textBoxAusgabe.TabIndex = 11;
+            this.textBoxAusgabe.TabStop = false;
             this.textBoxAusgabe.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // buttonKomma
@@ -219,6 +231,7 @@
             this.buttonKomma.Name = "buttonKomma";
             this.buttonKomma.Size = new System.Drawing.Size(75, 37);
             this.buttonKomma.TabIndex = 12;
+            this.buttonKomma.TabStop = false;
             this.buttonKomma.Text = ",";
             this.buttonKomma.UseVisualStyleBackColor = false;
             this.buttonKomma.Click += new System.EventHandler(this.buttonKomma_Click);
@@ -233,6 +246,7 @@
             this.buttonPlus.Name = "buttonPlus";
             this.buttonPlus.Size = new System.Drawing.Size(75, 37);
             this.buttonPlus.TabIndex = 13;
+            this.buttonPlus.TabStop = false;
             this.buttonPlus.Text = "+";
             this.buttonPlus.UseVisualStyleBackColor = false;
             this.buttonPlus.Click += new System.EventHandler(this.buttonPlus_Click);
@@ -247,6 +261,7 @@
             this.buttonMinus.Name = "buttonMinus";
             this.buttonMinus.Size = new System.Drawing.Size(75, 37);
             this.buttonMinus.TabIndex = 14;
+            this.buttonMinus.TabStop = false;
             this.buttonMinus.Text = "-";
             this.buttonMinus.UseVisualStyleBackColor = false;
             this.buttonMinus.Click += new System.EventHandler(this.buttonMinus_Click);
@@ -261,6 +276,7 @@
             this.buttonMal.Name = "buttonMal";
             this.buttonMal.Size = new System.Drawing.Size(75, 37);
             this.buttonMal.TabIndex = 15;
+            this.buttonMal.TabStop = false;
             this.buttonMal.Text = "x";
             this.buttonMal.UseVisualStyleBackColor = false;
             this.buttonMal.Click += new System.EventHandler(this.buttonMal_Click);
@@ -275,6 +291,7 @@
             this.buttonTeilen.Name = "buttonTeilen";
             this.buttonTeilen.Size = new System.Drawing.Size(75, 37);
             this.buttonTeilen.TabIndex = 16;
+            this.buttonTeilen.TabStop = false;
             this.buttonTeilen.Text = "/";
             this.buttonTeilen.UseVisualStyleBackColor = false;
             this.buttonTeilen.Click += new System.EventHandler(this.buttonTeilen_Click);
@@ -289,6 +306,7 @@
             this.buttonSumme.Name = "buttonSumme";
             this.buttonSumme.Size = new System.Drawing.Size(75, 37);
             this.buttonSumme.TabIndex = 17;
+            this.buttonSumme.TabStop = false;
             this.buttonSumme.Text = "=";
             this.buttonSumme.UseVisualStyleBackColor = false;
             this.buttonSumme.Click += new System.EventHandler(this.buttonSumme_Click);
@@ -299,13 +317,29 @@
             this.buttonClear.BackColor = System.Drawing.Color.LightSteelBlue;
             this.buttonClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonClear.Location = new System.Drawing.Point(240, 183);
+            this.buttonClear.Location = new System.Drawing.Point(159, 183);
             this.buttonClear.Name = "buttonClear";
             this.buttonClear.Size = new System.Drawing.Size(75, 37);
             this.buttonClear.TabIndex = 18;
+            this.buttonClear.TabStop = false;
             this.buttonClear.Text = "Clear";
             this.buttonClear.UseVisualStyleBackColor = false;
             this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
+            // 
+            // buttonDelete
+            // 
+            this.buttonDelete.AutoSize = true;
+            this.buttonDelete.BackColor = System.Drawing.Color.LightSteelBlue;
+            this.buttonDelete.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonDelete.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonDelete.Location = new System.Drawing.Point(240, 183);
+            this.buttonDelete.Name = "buttonDelete";
+            this.buttonDelete.Size = new System.Drawing.Size(75, 37);
+            this.buttonDelete.TabIndex = 19;
+            this.buttonDelete.TabStop = false;
+            this.buttonDelete.Text = "Del";
+            this.buttonDelete.UseVisualStyleBackColor = false;
+            this.buttonDelete.Click += new System.EventHandler(this.buttonDelete_Click);
             // 
             // Form1
             // 
@@ -313,6 +347,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.CornflowerBlue;
             this.ClientSize = new System.Drawing.Size(446, 457);
+            this.Controls.Add(this.buttonDelete);
             this.Controls.Add(this.buttonClear);
             this.Controls.Add(this.buttonSumme);
             this.Controls.Add(this.buttonTeilen);
@@ -337,6 +372,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Taschenrechner";
+            this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Form1_KeyPress);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -363,6 +399,7 @@
         private System.Windows.Forms.Button buttonTeilen;
         private System.Windows.Forms.Button buttonSumme;
         private System.Windows.Forms.Button buttonClear;
+        private System.Windows.Forms.Button buttonDelete;
     }
 }
 
